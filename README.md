@@ -18,11 +18,6 @@ https://github.com/user-attachments/assets/640c057c-a781-4204-b12f-8b47a24040d4
 
 
 
-
-
-
-
-
 ### 🎯 **Key Features**
 
 - 🛰️ **Real-time WebSocket Streaming**: 
@@ -42,11 +37,11 @@ https://github.com/user-attachments/assets/640c057c-a781-4204-b12f-8b47a24040d4
 
 ## 📞 **Stay Connected**
 
-Gmail: tom.kinddev@gmail.com
+Gmail: benjamin.bigdev@gmail.com
 
-Telegram: [@erikerik116](https://t.me/erikerik116)
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
-Discord: [@erikerik116](https://discord.com/channels/@me/304228787250528256)
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 ## 🧑‍💻 **GMGN**
 
@@ -81,7 +76,7 @@ Follow these steps to get your **PumpFun Sniper Bot v5.2** up and running!
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/eriksol116/Pumpfun-sniper-grpc-V5.2-public.git
+    git clone https://github.com/Benjamin-cup/Pumpfun-sniper-grpc-V5.2-public
     ```
 
 2. **Install Dependencies**:
